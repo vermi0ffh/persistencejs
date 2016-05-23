@@ -23,7 +23,7 @@
     "Eugene Ware <eugene.ware@nextharbour.com>",
     "Aurelien Richaud <aurelien.richaud@btoweb.fr>"
   ],
-  "description": "An asynchronous Javascript database mapper library. You can use it in the browser, as well on the server (and you can share data models between them).",
+  "description": "An asynchronous Javascript database mapper library.",
   "license": "MIT",
   "ignore": [
     "**/.*",
